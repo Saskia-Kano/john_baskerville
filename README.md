@@ -4,7 +4,9 @@ John Baskerville
 *02 November 2020*
 Created my first webpage marking up some plain text and an HTML5 page.
 
-
+[Version 2](https://saskia-kano.github.io/john_baskerville/baskerville-two.html)	
+*09 November 2020*
+Added a new Baskerville file.
 
 
 
