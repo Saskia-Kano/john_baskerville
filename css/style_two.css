@@ -18,6 +18,10 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
+article {
+	margin-top: 5em;
+}
+
 /*------TYPOGRAPHY-------*/
 
 h1, h2 {
@@ -103,7 +107,6 @@ nav ul {
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #fdfdfd;
 }
 
 nav ul li { 
