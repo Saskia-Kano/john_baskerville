@@ -159,6 +159,15 @@ table, td {
 	boarder: 1px solid #fdfdfd;
 }
 
+/*----------IMAGES--------*/
+
+images {
+	display: block;
+	margin: 4em 0;
+	padding: 0;
+	max-width: 100%;
+}
+
 /*-------FOOTER--------*/
 footer {
 	text-align: center;
