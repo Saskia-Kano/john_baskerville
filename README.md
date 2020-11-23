@@ -12,6 +12,11 @@ Added a new Baskerville file and applied my first CSS styling.
 *16 November 2020*
 Added a new Baskerville file.
 
+[Version 3](https://saskia-kano.github.io/john_baskerville/baskerville-four.html)	
+*23 November 2020*
+Added a table to Baskerville file and CSS.
+
+
 
 
 
