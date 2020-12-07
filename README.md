@@ -34,8 +34,13 @@ Added CSS styling to the HTML page.
 *23 November 2020*
 Created a table and added images and used CSS to style the page.
 
-[Version 4](https://saskia-kano.github.io/john_baskerville/type-history3.html)	
-*30 November 2020*
-Created three different versions of Baskerville text, changing the font and colours.
+
+
+
+
+CSS Exercise
+============
+[CSS Exercise](https://saskia-kano.github.io/john_baskerville/css_exercise.html)	
+
 
 
