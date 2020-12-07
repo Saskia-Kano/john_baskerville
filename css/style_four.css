@@ -133,3 +133,52 @@ footer {
 	font-size: 0.707em;
 	padding: 4em 0 8em 0;
 }
+
+
+/*-----STYLING TABLE---------*/
+
+table {
+	margin: auto;
+	display: table;
+	boarder-collapse: collapse;
+	boarder-spacing: 2px;
+	mar5gin-bottom: 2em;
+	width: 100%;
+}
+
+caption {
+	margin: 1.5em 0;
+	text-transform: uppercase;
+}
+
+th {
+	color: #fdfdfd;
+	text-transform: uppercase;
+	font-weight: normal;
+	text-align: left;
+	background: #8f0040;
+}
+
+th, td {
+	padding: 0.6em;
+}
+
+table, td {
+	background: #f9e7ef;
+	boarder: 1px solid #fdfdfd;
+}
+
+/*---------IMAGES-----------*/
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+/*---------MEDIA QUERIES-------*/
+@media (max-width: 50em){
+  
+   body {background: #8F0040}
+    
+      }

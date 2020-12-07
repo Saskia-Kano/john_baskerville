@@ -32,9 +32,11 @@ Added CSS styling to the HTML page.
 
 [Version 3](https://saskia-kano.github.io/john_baskerville/type-history2.html)	
 *23 November 2020*
+Added fonts using Google fonts.
+
+[Version 4](https://saskia-kano.github.io/john_baskerville/type-history2.html)	
+*23 November 2020*
 Created a table and added images and used CSS to style the page.
-
-
 
 
 
