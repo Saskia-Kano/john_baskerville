@@ -22,19 +22,19 @@ Added a table to Baskerville file and CSS.
 
 History of Type
 ===============
-[Version 1](https://saskia-kano.github.io/john_baskerville/type-history.html)	
+[Version 1](https://saskia-kano.github.io/john_baskerville/type-history1.html)	
 *09 November 2020*
 Created my first webpage marking up some plain text and an HTML5 page.
 
-[Version 2](https://saskia-kano.github.io/john_baskerville/type-history1.html)	
+[Version 2](https://saskia-kano.github.io/john_baskerville/type-history2.html)	
 *16 November 2020*
 Added CSS styling to the HTML page.
 
-[Version 3](https://saskia-kano.github.io/john_baskerville/type-history2.html)	
+[Version 3](https://saskia-kano.github.io/john_baskerville/type-history3.html)	
 *23 November 2020*
 Added fonts using Google fonts.
 
-[Version 4](https://saskia-kano.github.io/john_baskerville/type-history2.html)	
+[Version 4](https://saskia-kano.github.io/john_baskerville/type-history4.html)	
 *23 November 2020*
 Created a table and added images and used CSS to style the page.
 
