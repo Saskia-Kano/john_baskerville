@@ -10,7 +10,7 @@ Added a new Baskerville file and applied my first CSS styling.
 
 [Version 3](https://saskia-kano.github.io/john_baskerville/baskerville-three.html)	
 *16 November 2020*
-Added a new Baskerville file.
+Added a new Baskerville file and added a navbar.
 
 [Version 4](https://saskia-kano.github.io/john_baskerville/baskerville-four.html)	
 *23 November 2020*
